@@ -1,0 +1,5 @@
+python-twitch-stream
+opencv-python
+tensorflow-gpu
+scikit-image
+keras
